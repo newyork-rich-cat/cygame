@@ -1,0 +1,2 @@
+.game-container{background-color:#f0f0f0;height:200px;overflow:hidden;padding-top:20px;position:relative;text-align:center}.dino{background-color:green;border-radius:10px;bottom:0;height:50px;left:50px;position:absolute;transition:bottom .3s;width:50px}.dino.jump{animation:jump .5s}@keyframes jump{0%{bottom:0}50%{bottom:100px}to{bottom:0}}
+/*# sourceMappingURL=main.b239774d.css.map*/
