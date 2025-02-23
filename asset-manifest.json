@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/cygame/static/css/main.b239774d.css",
-    "main.js": "/cygame/static/js/main.50f03249.js",
+    "main.js": "/cygame/static/js/main.83a20025.js",
     "index.html": "/cygame/index.html",
     "main.b239774d.css.map": "/cygame/static/css/main.b239774d.css.map",
-    "main.50f03249.js.map": "/cygame/static/js/main.50f03249.js.map"
+    "main.83a20025.js.map": "/cygame/static/js/main.83a20025.js.map"
   },
   "entrypoints": [
     "static/css/main.b239774d.css",
-    "static/js/main.50f03249.js"
+    "static/js/main.83a20025.js"
   ]
 }
